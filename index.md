@@ -44,11 +44,11 @@ Following table depicts the sample observations which are analyzed.
 
 ## Research Output
 
-<img src="./assets/img/StoresPic.jpg" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" width="90%" />
+<img src="./assets/img/StoresPic.jpg" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" width="96%" />
 
 --- 
 ## Research Output
 
-<img src="./assets/img/tenpercent.jpg" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" width="90%" />
+<img src="./assets/img/tenpercent.jpg" title="plot of chunk unnamed-chunk-3" alt="plot of chunk unnamed-chunk-3" width="96%" />
 
 
